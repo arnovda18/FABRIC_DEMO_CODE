@@ -1,0 +1,41 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "LH_BRONZE_ZAS_DEMO_ID",
+      "note": "",
+      "type": "String",
+      "value": ""
+    },
+    {
+      "name": "LH_SILVER_ZAS_DEMO_ID",
+      "note": "",
+      "type": "String",
+      "value": ""
+    },
+    {
+      "name": "LH_GOLD_ZAS_DEMO_ID",
+      "note": "",
+      "type": "String",
+      "value": ""
+    },
+    {
+      "name": "WS_CODE_ID",
+      "note": "",
+      "type": "String",
+      "value": ""
+    },
+    {
+      "name": "WS_DATA_ID",
+      "note": "",
+      "type": "String",
+      "value": ""
+    },
+    {
+      "name": "WS_REPORT_ID",
+      "note": "",
+      "type": "String",
+      "value": ""
+    }
+  ]
+}

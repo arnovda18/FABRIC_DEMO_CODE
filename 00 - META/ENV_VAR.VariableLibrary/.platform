@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "VariableLibrary",
+    "displayName": "ENV_VAR",
+    "description": "Environment variables for IaC-provisioned project."
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3dd0806d-01e3-4a76-873e-ba09e923074e"
+  }
+}

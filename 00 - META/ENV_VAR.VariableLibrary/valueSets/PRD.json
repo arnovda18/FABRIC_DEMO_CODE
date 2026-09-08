@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "PRD",
+  "variableOverrides": [
+    {
+      "name": "LH_BRONZE_ZAS_DEMO_ID",
+      "value": "0877a091-56e9-457b-809a-13220d2239b5"
+    },
+    {
+      "name": "LH_SILVER_ZAS_DEMO_ID",
+      "value": "d3edf0f9-59d3-4ad9-9ffa-95d5c66f00a1"
+    },
+    {
+      "name": "LH_GOLD_ZAS_DEMO_ID",
+      "value": "03986817-d159-4ea1-b170-d05487dc3876"
+    },
+    {
+      "name": "WS_CODE_ID",
+      "value": "8a90c68b-b9e5-475b-95e3-b95684e96b2a"
+    },
+    {
+      "name": "WS_DATA_ID",
+      "value": "c4e90c33-3863-4265-ae03-66c10a8fe2d4"
+    },
+    {
+      "name": "WS_REPORT_ID",
+      "value": ""
+    }
+  ]
+}
